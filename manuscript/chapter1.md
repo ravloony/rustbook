@@ -1,4 +1,5 @@
 # Introduction
+
 ## What is this book?
 
 This book is an overview of the differences between Rust and older languages. It is aimed at experienced developers who already have knowledge and experience in languages that are procedural or object-oriented. So it will be assumed that you, the reader know all of the normal programming constructs from languages of those types, such as loops, classes, pointers, and so on. This book aims to complete that existing knowledge by introducing and explaining concepts that are unique to Rust in this context, such as ownership, lifetimes, traits, and to a lesser extent, structs.
