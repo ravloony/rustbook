@@ -1,1 +1,5 @@
-chapter1.md
+intro.md
+syntax.md
+ownership.md
+lifetimes.md
+types.md
